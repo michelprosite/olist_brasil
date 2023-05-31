@@ -1,0 +1,10 @@
+path_transient,path_raw,path_trusted,table_transient,table_raw,table_trusted,table_name,table_name_temp
+/data/transient/,/data/raw/,/data/trusted/,olist_orders_dataset,olist_orders_dataset,olist_orders_dataset,orders,temp_orders
+/data/transient/,/data/raw/,/data/trusted/,olist_order_payments_dataset,olist_order_payments_dataset,olist_order_payments_dataset,payments,temp_payments
+/data/transient/,/data/raw/,/data/trusted/,olist_order_items_dataset,olist_order_items_dataset,olist_order_items_dataset,items,temp_items
+/data/transient/,/data/raw/,/data/trusted/,olist_products_dataset,olist_products_dataset,olist_products_dataset,products,temp_products
+/data/transient/,/data/raw/,/data/trusted/,product_category_name_translation,product_category_name_translation,product_category_name_translation,category,temp_category
+/data/transient/,/data/raw/,/data/trusted/,olist_sellers_dataset,olist_sellers_dataset,olist_sellers_dataset,sellers,temp_sellers
+/data/transient/,/data/raw/,/data/trusted/,olist_geolocation_dataset,olist_geolocation_dataset,olist_geolocation_dataset,geolocation,temp_geolocation
+/data/transient/,/data/raw/,/data/trusted/,olist_order_reviews_dataset,olist_order_reviews_dataset,olist_order_reviews_dataset,reviews,temp_reviews
+/data/transient/,/data/raw/,/data/trusted/,olist_customers_dataset,olist_customers_dataset,olist_customers_dataset,customers,temp_customers
